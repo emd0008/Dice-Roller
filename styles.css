@@ -1,0 +1,27 @@
+.square{
+    margin: 0 auto;
+    margin-bottom: 10px;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 90px;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    background-color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 16px;
+}
+
+body{
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+}
